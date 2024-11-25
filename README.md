@@ -1,4 +1,4 @@
 # GIT_Course
 Studying Course
 
-# Project Notes:
+## Project Notes:
